@@ -1,5 +1,5 @@
 # Ray Tracing under the Cornell Box setting - Computer Graphics
-My solution to Games101 HW7 
+My solution to Games101 exercise 7 
 
 # My main tasks
 1. Implement path tracing, a method in ray tracing
