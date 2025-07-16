@@ -10,9 +10,13 @@ My solution to Games101 exercise 7
 - For fireflies, the major cause are miscalculation. The clipping might factor in but if the situation is too serious, it's most certaintly miscalculation.
 - For shadow artifacts, almost certaintly, it's either self-intersecting shadow acne or miscalculation.
 
-# Result
+# Result 1 (clamp to 0.2)
 
 <img width="450" height="436" alt="Screenshot from 2025-07-17 00-36-38" src="https://github.com/user-attachments/assets/ca720342-4f56-4811-bd14-ee8fcd8f3220" />
+
+# Result 2 (clamp to 1)
+
+<img width="450" height="452" alt="Screenshot from 2025-07-17 03-22-15" src="https://github.com/user-attachments/assets/78a73b65-d44c-45b5-b166-7316c3450a8a" />
 
 # Prerequisites
 You need OpenCV to build this project. 
