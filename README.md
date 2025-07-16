@@ -14,10 +14,6 @@ My solution to Games101 exercise 7
 
 <img width="450" height="436" alt="Screenshot from 2025-07-17 00-36-38" src="https://github.com/user-attachments/assets/ca720342-4f56-4811-bd14-ee8fcd8f3220" />
 
-# light source and direct illumination only (similar )
-
-<img width="400" height="417" alt="Screenshot from 2025-07-16 15-07-38" src="https://github.com/user-attachments/assets/ab50b192-22d5-4b3e-ac39-1038acb66933" />
-
 # Prerequisites
 You need OpenCV to build this project. 
 If you're on Ubuntu, run 
