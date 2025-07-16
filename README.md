@@ -6,6 +6,10 @@ My solution to Games101 HW7
 2. Build on top of the BVH mechanisms in the previous exercise.
 3. Remove fireflies and shadow acnes
 
+# Finding 
+- For fireflies, the major cause are miscalculation. The clipping might factor in but if the situation is too serious, it's most certaintly miscalculation.
+- For shadow artifacts, almost certaintly, it's either self-intersecting shadow acne or miscalculation.
+
 # Result
 
 # Prerequisites
