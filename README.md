@@ -12,7 +12,7 @@ My solution to Games101 exercise 7
 
 # Result
 
-<img width="450" height="436" alt="Screenshot from 2025-07-17 00-36-38" src="https://github.com/user-attachments/assets/ca720342-4f56-4811-bd14-ee8fcd8f3220" />
+<img width="450" height="452" alt="Screenshot from 2025-07-17 03-22-15" src="https://github.com/user-attachments/assets/afa87293-bcac-4d60-bd1f-442406120e4a" />
 
 # Prerequisites
 You need OpenCV to build this project. 
