@@ -127,7 +127,7 @@ Vector3f Scene::castRay(const Ray &ray, int depth) const
                        (intersection.m->pdf(sample_dir, -ray.direction, intersection.normal) * russian_pdf);
 
     Vector3f sum = l_dir + l_indir;
-    Vector3f result (std::min(sum.x, 0.7f), std::min(sum.y, 0.85f), std::min(sum.z, 0.85f));
+    Vector3f result (std::min(sum.x, 1.f), std::min(sum.y, 1.f), std::min(sum.z, 1.f));
 
     return result;
 }
