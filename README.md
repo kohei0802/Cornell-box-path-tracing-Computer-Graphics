@@ -1,4 +1,4 @@
-<img width="757" height="790" alt="Screenshot from 2025-07-16 15-07-38" src="https://github.com/user-attachments/assets/2d90f760-c3ff-4b94-b6a8-b5a7f4ac4aed" /># Ray Tracing under the Cornell Box setting - Computer Graphics
+# Ray Tracing in Cornell box environment
 My solution to Games101 exercise 7 
 
 # My main tasks
